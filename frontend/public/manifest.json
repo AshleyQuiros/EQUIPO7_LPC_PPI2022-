@@ -1,0 +1,60 @@
+{
+  "short_name": "TattoMaster",
+  "name": "TattoMasteres ",
+  "description": "TattoMaster es un aplicativo web ingeniado para ayudar aquellas personas en busca de su tatuaje ideal o estudios que estés cerca de su área",
+  "background_color": "#171717",
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/Master_16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/Master_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/Master_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./img/Master_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/Master_72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./img/Master_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./img/Master_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/Master_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/Master_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+    
+  ]
+}
